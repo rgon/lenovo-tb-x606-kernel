@@ -1,0 +1,1 @@
+obj-y += gc5035kingcomemipi_Sensor.o
